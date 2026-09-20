@@ -1,4 +1,4 @@
-const CACHE = 'tally-1789533459';
+const CACHE = 'tally-1789824988';
 const ASSETS = ['./', './index.html', './manifest.json', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', (e) => {
